@@ -1,3 +1,5 @@
+🇺🇸 English | 🇷🇺 [Russian](https://github.com/madebykord/HelloNeighbor/blob/main/README%20RU.md)
+
 # Hello Neighbor Steam Versions
 
 ## Important Notice
