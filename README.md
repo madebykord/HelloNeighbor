@@ -121,7 +121,7 @@ The password was eventually cracked by fans
 
 The password to the file: f0ac0f112a01a5c0aae735be1f9e18a2f67b9e06a8911f9954746d96599c78a99909876878979879 (you won't need it to play)
 
-## Credits to
+## Special Thanks
 
 **[PinkyyWaffle](https://www.youtube.com/@PinkyyWaffle)** for finding **[Hello Neighbor Pre-Release](https://www.youtube.com/watch?v=vR8Eq9v3Oc0)**
 
