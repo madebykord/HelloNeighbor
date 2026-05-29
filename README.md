@@ -116,6 +116,7 @@ Changelog unknown
 
 Hello Guest Prototype was the first version of Hello Guest
 Originally, the Hello Guest Prototype had a hidden download link that gave you a 7-Zip file which required a password
+
 The password was eventually cracked by fans
 
 The password to the file: f0ac0f112a01a5c0aae735be1f9e18a2f67b9e06a8911f9954746d96599c78a99909876878979879 (you won't need it to play)
