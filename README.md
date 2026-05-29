@@ -9,7 +9,7 @@ This will only work on a **Windows PC**.
 
 ## Tutorial for every version
 
- 1. **Download the file from [Releases](github.com/madebykord/HelloNeighbor/releases)**
+ 1. **Download the file from [Releases](https://github.com/madebykord/HelloNeighbor/releases)**
  2. **Open the archive using 7-Zip or WinRAR**
  3. **Open the "Hello Neighbor" folder** and **right-click the folder of the version** you want to play
  4. **Click on *Copy To...*** and **select the path** where the folder with the version will be located
