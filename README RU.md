@@ -18,8 +18,9 @@
 
 ## Информация
 
-**Пак также содержит [Hello Guest Prototype](https://hello-neighbor.fandom.com/wiki/Hello_Guest_Prototype)
-**Пак НЕ содержит в себе Альфа-версии, так как они доступны для бесплатного скачивания в Steam или на других платформах.
+**Пак также содержит [Hello Guest Prototype](https://hello-neighbor.fandom.com/wiki/Hello_Guest_Prototype), найденная на [SecretNeighbor.com/HGP](SecretNeighbor.com/HGP)**
+
+**Пак НЕ содержит в себе Альфа-версии, так как они доступны для бесплатного скачивания в Steam или на других платформах.**
 
 ### Hello Neighbor Бета 1
 **Выпущена 25 Июля, 2017**
