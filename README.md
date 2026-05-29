@@ -17,8 +17,8 @@ This will only work on a **Windows PC**.
 
 ## Information
 
-**The Pack also includes [Hello Guest Prototype](https://hello-neighbor.fandom.com/wiki/Hello_Guest_Prototype), found at SecretNeighbor.com/HGP
-**The Pack does NOT include the Alphas, as they're available to download for free on Steam.
+**The Pack also includes [Hello Guest Prototype](https://hello-neighbor.fandom.com/wiki/Hello_Guest_Prototype), found at [SecretNeighbor.com/HGP](SecretNeighbor.com/HGP)**
+**The Pack does NOT include the Alphas, as they're available to download for free on Steam.**
 
 ### Hello Neighbor Beta 1
 **Released July 25, 2017**
