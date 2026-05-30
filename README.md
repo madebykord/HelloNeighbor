@@ -9,13 +9,12 @@ This will only work on a **Windows PC**.
 
 ## Tutorial for every version
 
- 1. **Download the file from [Releases](https://github.com/madebykord/HelloNeighbor/releases)**
+ 1. **Download the file from [Internet Archive](https://archive.org/details/@ilya748)**
  2. **Open the archive using 7-Zip or WinRAR**
- 3. **Open the "Hello Neighbor" folder** and **right-click the folder of the version** you want to play
- 4. **Click on *Copy To...*** and **select the path** where the folder with the version will be located
- 5. **Open the folder you just copied**
- 6. **Execute "HelloNeighbor.exe"** if you chose any of the Hello Neighbor versions
- 7. **Right-Click "Launcher.exe"** and **select Run as administrator** if you chose Hello Guest Prototype
+ 3. **Extract the folder** anywhere you want
+ 4. **Open the folder you just copied**
+ 5. **Execute "HelloNeighbor.exe"** if you chose any of the Hello Neighbor versions
+ 6. **Right-Click "Launcher.exe"** and **select Run as administrator** if you chose Hello Guest Prototype
 
 ## Information
 
