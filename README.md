@@ -12,7 +12,7 @@ This will only work on a **Windows PC**.
  1. **Download the file from [Internet Archive](https://archive.org/details/@ilya748)**
  2. **Open the archive using 7-Zip or WinRAR**
  3. **Extract the folder** anywhere you want
- 4. **Open the folder you just copied**
+ 4. **Open the folder you extracted**
  5. **Execute "HelloNeighbor.exe"** if you chose any of the Hello Neighbor versions
  6. **Right-Click "Launcher.exe"** and **select Run as administrator** if you chose Hello Guest Prototype
 
